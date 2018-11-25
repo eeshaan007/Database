@@ -1,0 +1,7 @@
+There are two txt files.
+Person.txt contains: PersonID, PersonName, DOB, Address, City, Contact
+
+Student.txt contains: PersonID, StudentID, Course, Date of Joining, Subject, Date of Exam, Marks Obtained
+
+Please enter the corrent information when Main.Java in run.
+IDE used: Eclipse

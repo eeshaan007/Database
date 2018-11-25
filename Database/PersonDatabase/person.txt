@@ -1,0 +1,5 @@
+TC001,Tom Cruise,10/11/1965,155 San Andreas,California,9878456523
+WS002,Will Smith,10/05/1960,244 Hollywood Road,Boston,4565126320
+BP003,Brad Pitt,09/01/1965,654 New Streets,New York,8784321014
+RR004,Ryan Reynolds,10/08/1970,3122 New Street ave,Chicago,7845982510
+
